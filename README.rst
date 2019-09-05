@@ -16,7 +16,7 @@ Features
 - Be AWESOMEEEEE
 - Make things faster
 
-Installation
+Installationqqqqq
 ------------
 
 Install $project by running:
