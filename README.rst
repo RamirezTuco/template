@@ -13,7 +13,7 @@ Look how easy it is to use:
 Features
 --------
 
-- Be great
+- Be AWESOMEEEEE
 - Make things faster
 
 Installation
